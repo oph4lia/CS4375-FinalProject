@@ -1,7 +1,7 @@
-# CS4375.501 Final Project
+# CS4375.501 Final Project Brainstorming
 > Mikkael Dumancas
 
-## Brainstorming Proposals
+## Proposals
 
 There are 3 options for this project
 1. Classification on structured datasets
